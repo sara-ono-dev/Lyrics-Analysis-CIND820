@@ -48,3 +48,4 @@ This project investigates how the themes, sentiments, and topics in popular musi
 - `README.md`: Project overview and instructions for setting up and running the analysis.
 - `top100.ipynb': First iteration of code
 - `top100V2.ipynb': Updated iteration of code with initial results
+- 'top100V2.ipynb - Colab.pdf' PDF of technical report
