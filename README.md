@@ -44,6 +44,7 @@ This project investigates how the themes, sentiments, and topics in popular musi
 ## Repository Contents
 
 - `data/`: Folder containing raw and preprocessed data from the CSV file
-- `notebooks/`: Jupyter notebooks for data analysis, EDA, LDA topic modeling, and sentiment analysis.
 - `visualizations/`: Folder containing charts and plots generated during analysis.
 - `README.md`: Project overview and instructions for setting up and running the analysis.
+- `top100.ipynb': First iteration of code
+- `top100V2.ipynb': Updated iteration of code with initial results
