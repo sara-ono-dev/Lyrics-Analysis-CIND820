@@ -43,7 +43,7 @@ This project investigates how the themes, sentiments, and topics in popular musi
 
 ## Repository Contents
 
-- `data/`: Folder containing raw and preprocessed data from the CSV file
+-data was retreived from: https://www.kaggle.com/datasets/brianblakely/top-100-songs-and-lyrics-from-1959-to-2019 
 - `visualizations/`: Folder containing charts and plots generated during analysis.
 - `README.md`: Project overview and instructions for setting up and running the analysis.
 - `top100.ipynb': First iteration of code
